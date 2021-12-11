@@ -1,0 +1,17 @@
+C:\Users\sabot\source\repos\osman\osman\bin\Debug\osman.exe.config
+C:\Users\sabot\source\repos\osman\osman\bin\Debug\osman.exe
+C:\Users\sabot\source\repos\osman\osman\bin\Debug\osman.pdb
+C:\Users\sabot\source\repos\osman\osman\obj\Debug\osman.csproj.CoreCompileInputs.cache
+C:\Users\sabot\source\repos\osman\osman\obj\Debug\osman.exe
+C:\Users\sabot\source\repos\osman\osman\obj\Debug\osman.pdb
+C:\Users\sabot\source\repos\osman\osman\obj\Debug\osman.Properties.Resource1.resources
+C:\Users\sabot\source\repos\osman\osman\obj\Debug\osman.csproj.GenerateResource.cache
+D:\Backup\repos\osman\osman\bin\Debug\osman.exe.config
+D:\Backup\repos\osman\osman\bin\Debug\osman.exe
+D:\Backup\repos\osman\osman\bin\Debug\osman.pdb
+D:\Backup\repos\osman\osman\obj\Debug\osman.csprojAssemblyReference.cache
+D:\Backup\repos\osman\osman\obj\Debug\osman.Properties.Resource1.resources
+D:\Backup\repos\osman\osman\obj\Debug\osman.csproj.GenerateResource.cache
+D:\Backup\repos\osman\osman\obj\Debug\osman.csproj.CoreCompileInputs.cache
+D:\Backup\repos\osman\osman\obj\Debug\osman.exe
+D:\Backup\repos\osman\osman\obj\Debug\osman.pdb
