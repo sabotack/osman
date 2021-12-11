@@ -1,3 +1,3 @@
 # osman
 
-Creates a hidden soundplayer only visible through joblist, force-unmutes the default playback device and sets volume to 100%. Then it plays "n'dokowaoh" from "Osman og Jeppe".
+Creates a hidden soundplayer only visible through joblist, waits certain amount of time and then force-unmutes the default playback device, sets volume to 100% and plays "n'dokowaoh" from "Osman og Jeppe".
