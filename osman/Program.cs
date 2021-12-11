@@ -23,8 +23,7 @@ namespace osman
 
             CoreAudioDevice defaultPlaybackDevice = new CoreAudioController().DefaultPlaybackDevice;
             SoundPlayer ndokowaoh = new SoundPlayer(Properties.Resource1.Ndokowaoh);
-
-            
+   
             defaultPlaybackDevice.Mute(false);
             defaultPlaybackDevice.Volume = 30;
 
