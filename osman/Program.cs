@@ -28,8 +28,6 @@ namespace osman
             defaultPlaybackDevice.Mute(false);
             defaultPlaybackDevice.Volume = 30;
 
-            //tjek.play();
-
             Console.Beep(2000, 250);
 
             Console.WriteLine("Enter number of seconds to wait:");
@@ -44,7 +42,6 @@ namespace osman
             // Wait
             Thread.Sleep(sleepTime);
 
-
             for (int i = 0; i < repeat; i++)
             {
                 // Unmute default sound device, max volume and play ndokowaoh
@@ -54,7 +51,6 @@ namespace osman
                 ndokowaoh.Play();
                 Thread.Sleep(3300);
             }
-            
         }
     }
 }
