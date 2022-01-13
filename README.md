@@ -1,8 +1,9 @@
 # Osman
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sabotack/osman?include_prereleases&label=current%20version)
-![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/sabotack/osman/latest?include_prereleases)
-![GitHub repo size](https://img.shields.io/github/repo-size/sabotack/osman)
-![GitHub](https://img.shields.io/github/license/sabotack/osman)
+![Latest stable release](https://img.shields.io/github/v/release/sabotack/osman?color=brightgreen&label=latest%20stable%20version&style=flat-square)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/sabotack/osman?include_prereleases&label=current%20version&style=flat-square)
+![GitHub commits since latest release (by date including pre-releases)](https://img.shields.io/github/commits-since/sabotack/osman/latest?include_prereleases&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/sabotack/osman?style=flat-square)
+![GitHub](https://img.shields.io/github/license/sabotack/osman?style=flat-square)
 
 ## About
 
